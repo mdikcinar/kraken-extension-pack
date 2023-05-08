@@ -1,1 +1,3 @@
 # Team Kraken Flutter Extension Pack
+
+Visual Studio Code offer great experience in text editor just like IDE. Flutter is the next generation easy app development framework for mobile apps (Android and iOS), desktop app, and web apps. Here some extension in Visual Studio Code that is useful for cross platform application development with Flutter Framework. This pack include extensions, git tools, recommended selection of themes and icons, and some utilities.. You can select or disable some extension in this pack, so it can run as depend on your needs.

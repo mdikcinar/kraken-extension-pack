@@ -1,15 +1,29 @@
 {
-  "name": "kraken-extension-pack",
-  "displayName": "Kraken Extension Pack",
+  "name": "kraken-flutter-extension-pack",
+  "displayName": "Kraken Flutter Extension Pack",
   "description": "Complete set of extensions for apps development with Flutter Framework.",
-  "version": "0.0.1",
-  "publisher": "Team Kraken",
+  "version": "1.0.0",
+  "publisher": "team-kraken",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "Flutter extensions",
+    "Kraken extensions",
+    "VSCode flutter",
+    "Extension pack",
+    "Flutter extension pack",
+    "Flutter",
+    "Mobile development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdikcinar/kraken-extension-pack"
+  },
   "extensionPack": [
     "akamud.vscode-theme-onedark",
     "akamud.vscode-theme-onelight",
